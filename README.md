@@ -1,5 +1,3 @@
-# 
-ASCII Timer CLI
 # <img src="./icon.png" alt="Do-It" width="80" height="80"> <br>ASCII-Timer
 
 #### ASCII Timer CLI
