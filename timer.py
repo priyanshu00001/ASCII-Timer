@@ -62,6 +62,7 @@ def timer():
             "\n\n\n\033[93mEnter the time in format : HH.MM.SS | 'q' to quit\n\n\033[0m"
         )
         print(msg)
+        msg=""
         T = "0:0:0".split(":")
         time = input("\n\033[96m>>> \033[0m").strip()
 
@@ -125,7 +126,6 @@ def timer():
 
                 if not resume:
                     break
-            msg=""
 
 
 if __name__ == "__main__":
