@@ -125,6 +125,7 @@ def timer():
 
                 if not resume:
                     break
+            msg=""
 
 
 if __name__ == "__main__":
